@@ -66,6 +66,7 @@
           };
         }
       );
+      nixosModules.default = import ./updater.nix;
 
     };
 }

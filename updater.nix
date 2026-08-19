@@ -70,7 +70,7 @@ in {
       '';
     };
 
-    systemd.timers.ddns-updater = {
+    systemd.timers.duckdns-updater = {
       description = "Timer for DuckDNS Updater";
       wantedBy = [ "timers.target" ];
 
