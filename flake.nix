@@ -37,7 +37,7 @@
             inherit version;
             src = ./caddy-src;
             runVend = true;
-            vendorHash = "sha256-lhycz8kaZajH0cXPu7nJn8xpjD8Rohv8qtbFaz+Yn1w=";
+            vendorHash = "sha256-IC5FKvjJrdPKMvv1FkO+ch0Uts65hQ/IFT7fn9PU9h8=";
 
             meta = {
               homepage = "https://caddyserver.com";

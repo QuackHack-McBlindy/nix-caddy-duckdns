@@ -1,2 +1,4 @@
+caddy-src/vendor/
+caddy-src/caddy
 result
 tasks.py
